@@ -1,9 +1,6 @@
 # Kugel
 
-=========================================================
-
-KUGEL?
-
+---------------------------------------
 This is a game in which you become this round pal, Kugel.
 He is native to a distant planet full of round objects and people.
 
@@ -14,10 +11,10 @@ He has no way of coming back home...for now.
 
 You must help Kugel find all of his lost abilities in order for him to be able to leave this weird world and return to his home planet.
 
-===================================================================================================================================================
 
-HOW TO PLAY
 
+How to play?
+---------------------------------------
 Basic controls:
 You can move Kugel around with the arrow keys or 'WASD'.
 Jump with the space bar.
@@ -32,3 +29,4 @@ Use your right click to swap between abilities.
 
 Press 'P' in any moment to pause the game and read some ability-specific information.
 Press it again to exit pause.
+
